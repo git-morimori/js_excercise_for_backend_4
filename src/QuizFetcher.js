@@ -1,5 +1,5 @@
 const axios = require('axios');
-const API_URL ='https://opentdb.com/api.php?amount=10&type=multiple';
+const API_URL = 'https://opentdb.com/api.php?amount=10&type=multiple';
 
 class QuizFetcher {
 
